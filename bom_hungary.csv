@@ -1,29 +1,33 @@
-Lomex;;;
-;83-00-44;MV7404T1 (MOT);1 db
-;82-15-34;0805X225K160NT (FNG) RoHS 2.2uF 0805 10% 16V X5R;2 db
-;06-02-95;XP-148M-B50K (FEM) RoHS 50K0 LIN MONO;1 db
-;43-05-04;JS35-08 (FEM) JACK 3.5mm ANYA 90°;1 db
-;32-00-98;NE5532P (TI) RoHS DIP-8;1 db
-;87-04-46;SN74AHC1G04DBVR (TI) RoHS SOT-23-5;1 db
-;30-09-25;SN74HC74N (TI) RoHS DIP-14;1 db
-;43-14-75;USB-B 4P ANYA 90° USB-B-04PFHTW (T-T) RoHS;1 db
-;;;
-;;;
-;;;
-RET;;;
-;93-05-36;82pF 0805;2 db
-; 93-01-66;100 nF 0805;5 db
-;10-01-87 ;22 nF 50V ±20% Z5U RM1-Tape ;4 db
-;10-01-26 ;22 nF 50V ±20% Z5U RM1-Tape ;2 db
-;14-03-00;10 uF 100V 105°C ±20% radial d=6x11mm - YAGEO (TEAPO) - SE100M0010BZF-0611;1 db
-;10-01-62 ;100 nF 100V ±20% Z5U RM1-Tape ;1 db
-;46-00-20 ;3L piros LTL4221NLC ;1 db
-;22-03-17 ;BC 547C *N;1 db
-;77-01-49 ;4.7 uH/SMD LQH32CN ;1 db
-;01-01-21;100 KOhm 0.25W 5% RM4 - YAGEO - CFR-25JT-52-100K;1 db
-;02-06-13 ;1 KOhm 0.4W 1% RM2 ;2 db
-;02-06-30 ;5.1 KOhm 0.4W 1% RM2;2 db
-;34-03-73;CD74 HCT 4052E ;1 db
-;51-02-23 ;DIL8 lemezes Assmann ;1 db
-;51-02-19 ;DIL14 lemezes ;1 db
-;51-02-09 ;DIL16 lemezes;1 db
+"Lomex",,,,,
+,"83-00-44","MV7404T1 (MOT)","1 db",,
+,"82-15-34","0805X225K160NT (FNG) RoHS 2.2uF 0805 10% 16V X5R","2 db",,
+,"06-02-95","XP-148M-B50K (FEM) RoHS 50K0 LIN MONO","1 db",,
+,"32-00-98","NE5532P (TI) RoHS DIP-8","1 db",,
+,"87-04-46","SN74AHC1G04DBVR (TI) RoHS SOT-23-5","1 db",,
+,"30-09-25","SN74HC74N (TI) RoHS DIP-14","1 db",,
+,"43-14-75","USB-B 4P ANYA 90° USB-B-04PFHTW (T-T) RoHS","1 db",,
+,,,,,
+,,,,,
+,,,,,
+"RET",,,,,
+,"93-05-36","82pF 0805","2 db",,
+," 93-01-66","100 nF 0805","5 db",,
+,"10-01-87 ","22 nF 50V ±20% Z5U RM1-Tape ","4 db",,
+,"10-01-26 ","22 nF 50V ±20% Z5U RM1-Tape ","2 db",,
+,"14-03-00","10 uF 100V 105°C ±20% radial d=6x11mm - YAGEO (TEAPO) - SE100M0010BZF-0611","1 db",,
+,,,,,
+,"10-01-62 ","100 nF 100V ±20% Z5U RM1-Tape ","1 db",,
+,"46-00-20 ","3L piros LTL4221NLC ","1 db",,
+,"22-03-17 ","BC 547C *N","1 db",,
+,"77-01-49 ","4.7 uH/SMD LQH32CN ","1 db",,
+,"01-01-21","100 KOhm 0.25W 5% RM4 - YAGEO - CFR-25JT-52-100K","1 db",,
+,"02-06-13 ","1 KOhm 0.4W 1% RM2 ","2 db",,
+,,,,,
+,"02-06-30 ","5.1 KOhm 0.4W 1% RM2","2 db",,
+,"34-03-73","CD74 HCT 4052E ","1 db",,
+,"51-02-23 ","DIL8 lemezes Assmann ","1 db",,
+,"51-02-19 ","DIL14 lemezes ","1 db",,
+,"51-02-09 ","DIL16 lemezes","1 db",,
+,"67-02-39","JY39-3P 3.5mm sztereo Jack aljzat - CLIFF - FC68131","1 db",,
+,,,,,
+,,,,,6
